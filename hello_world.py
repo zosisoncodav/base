@@ -1,0 +1,2 @@
+mkdir hello_world_project
+cd hello_world_project
