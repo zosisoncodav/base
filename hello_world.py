@@ -1,2 +1,2 @@
-mkdir hello_world_project
-cd hello_world_project
+# Простой пример программы на Python
+print("Hello, World!")
